@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/örneklink.gif" width="100%">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkpzYI/giphy.gif" width="80%" />
 </p>
 
 
