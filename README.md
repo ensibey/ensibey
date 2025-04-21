@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Enis</h1>
 <h3 align="center">🎮 Unity Dev | 🐍 Python Enthusiast | ⚙️ Low-Level C Learner</h3>
 
@@ -12,6 +16,18 @@
 - ⚙️ Learning **C** to get closer to the machine  
 - 🎮 Developing games using **Unity** engine  
 - 📫 Reach me at **enis-dogan@outlook.com**
+
+---
+
+## 🌐 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/enis-do%C4%9Fan-29884a353/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/dogan.enis11?igsh=c2N2ZTN3dGlrZmdj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
