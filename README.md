@@ -35,9 +35,7 @@
 
 
 
-Ya da aşağıdaki gibi sade:
 
-```md
 - 🔭 Currently working on: Unity car game 🚗  
 - 🌱 Currently learning: Kotlin & Android Studio 🤖  
 - 📫 Reach me: jeyo@gmail.com  
