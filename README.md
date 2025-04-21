@@ -5,13 +5,12 @@
   <img src="https://media.giphy.com/media/9xYQX7jsZkHg7TZ8z0/giphy.gif" width="80%" />
 </p>
 
-
 <p align="center">
-  <a href="https://instagram.com/kullaniciAdin" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/enis-do%C4%9Fan-29884a353/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@kanaladi" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.instagram.com/dogan.enis11?igsh=c2N2ZTN3dGlrZmdj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -29,3 +28,4 @@
 - 🔭 Currently working on: Machine Learning 🤖  
 - 🌱 Currently learning: C & Unity & Python  
 - 📫 Reach me: enis-dogan@outlook.com
+
