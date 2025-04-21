@@ -36,6 +36,6 @@
 
 
 
-- 🔭 Currently working on: Unity car game 🚗  
-- 🌱 Currently learning: Kotlin & Android Studio 🤖  
-- 📫 Reach me: jeyo@gmail.com  
+- 🔭 Currently working on: Machine Learning 🤖 
+- 🌱 Currently learning: C & Unity & Phyton 
+- 📫 Reach me: enis-dogan@outlook.com 
