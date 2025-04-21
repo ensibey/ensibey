@@ -28,9 +28,10 @@
 
 
 ```yaml
-🧠 Brainstorming ideas every day  
-🎮 Making games that touch the soul  
-🌙 Night owl, code under the moon  
+🧠 Designing intelligent systems with Python  
+⚙️ Mastering C to understand machines at their core  
+🧬 Building the future, one AI model at a time  
+
 
 
 
