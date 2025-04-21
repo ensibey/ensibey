@@ -2,7 +2,7 @@
 <h3 align="center">🎧 Chill Coder | 🎮 Game Dev | 💡 Idea Machine</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.gif" width="80%" />
+  <img src="https://media.giphy.com/media/9xYQX7jsZkHg7TZ8z0/giphy.gif" width="80%" />
 </p>
 
 
