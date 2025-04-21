@@ -1,12 +1,9 @@
 <h1 align="center">Hey 👋, I'm Enis</h1>
 <h3 align="center">🎧 Chill Coder | 🎮 Game Dev | 💡 Idea Machine</h3>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.gif" width="80%" />
 </p>
-
-
 
 <p align="center">
   <a href="https://instagram.com/kullaniciAdin" target="_blank">
@@ -17,25 +14,17 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ensibey&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ensibey&layout=compact&theme=tokyonight" />
 </p>
-
-
 
 ```yaml
 🧠 Designing intelligent systems with Python  
 ⚙️ Mastering C to understand machines at their core  
 🧬 Building the future, one AI model at a time  
 
-
-
-
-
-- 🔭 Currently working on: Machine Learning 🤖 
-- 🌱 Currently learning: C & Unity & Phyton 
-- 📫 Reach me: enis-dogan@outlook.com 
+- 🔭 Currently working on: Machine Learning 🤖  
+- 🌱 Currently learning: C & Unity & Python  
+- 📫 Reach me: enis-dogan@outlook.com
