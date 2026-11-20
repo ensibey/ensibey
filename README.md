@@ -31,42 +31,42 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/ensibey/CodeSentinel">CodeSentinel</a></h3>
-      <p>Hybrid <b>Python AST + 4-agent LangGraph</b> PR security scanner (<code>security_scanner</code> → <code>test_generator</code> → <code>patch_creator</code> → <code>judge</code>) with standalone CLI and Celery/FastAPI worker.</p>
+      <p>Hybrid <b>Python AST (12 OWASP/CWE rules, Shannon entropy) + 4-agent LangGraph</b> security scanner with deterministic AST patch gate, SARIF 2.1.0 export, reusable GitHub Action, and <b>100% F1</b> OWASP benchmark (<code>0.087 ms/file</code>, 75 tests).</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-6366F1?style=flat-square" />
+        <img src="https://img.shields.io/badge/SARIF_2.1.0-10B981?style=flat-square" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔒 <a href="https://github.com/ensibey/PrivaRAG">PrivaRAG</a></h3>
-      <p>100% local, <b>air-gapped RAG platform</b> combining 40/60 BM25 + ChromaDB ensemble retrieval, cosine semantic caching, and natural-language SQLite/Excel agents powered by Ollama.</p>
+      <p>100% local, <b>air-gapped RAG platform</b> combining Okapi BM25 + dense RRF retrieval (<code>100% R@1</code>), sub-millisecond source-invalidating semantic cache (<code>0.226 ms</code>), PII redaction, citation faithfulness verifier, and read-only SQLite guard (31 tests).</p>
       <p>
         <img src="https://img.shields.io/badge/Ollama-0F172A?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/BM25+RRF-0EA5E9?style=flat-square" />
         <img src="https://img.shields.io/badge/ChromaDB-F59E0B?style=flat-square" />
-        <img src="https://img.shields.io/badge/BM25-0EA5E9?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite_RO-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🗣️ <a href="https://github.com/ensibey/turkish-nlp-toolkit">turkish-nlp-toolkit</a></h3>
-      <p>Zero-dependency Turkish NLP library with <code>İ/I</code> normalization, agglutinative stemming, postal address parsing (<b>TEKNOFEST Top 11%</b>), CLI, and Turkish BERT wrapper.</p>
+      <p>Zero-dependency Turkish NLP library (<b>9,776 docs/sec</b> pipeline, <b>15,611 addrs/sec</b>) with <code>İ/I</code> normalization, agglutinative stemming, sentence splitting, deasciifier, entity extraction, postal address parser (<b>TEKNOFEST Top 11%</b>), and BERT wrapper (27 tests).</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
         <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/BERT-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero_Deps-10B981?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/ensibey/personal-omniscience-engine">personal-omniscience-engine</a></h3>
-      <p>Real-time local Markdown/PDF knowledge indexer with <b>Watchdog</b> live sync, Qdrant vector search, and corpus-driven author writing-style profiling.</p>
+      <p>Local Markdown/Obsidian knowledge engine with SHA-256 incremental sync, bidirectional <code>[[wikilink]]</code> graph retrieval (<b>33.3% → 100% R@3</b> ablation), bilingual style conditioning, and style drift evaluator (13 tests).</p>
       <p>
         <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square" />
         <img src="https://img.shields.io/badge/Qdrant-DC2626?style=flat-square" />
-        <img src="https://img.shields.io/badge/Ollama-0F172A?style=flat-square&logo=ollama&logoColor=white" />
+        <img src="https://img.shields.io/badge/Knowledge_Graph-06B6D4?style=flat-square" />
       </p>
     </td>
   </tr>
