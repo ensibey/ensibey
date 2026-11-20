@@ -15,8 +15,8 @@
   <a href="https://www.kaggle.com/hakanenisdogan">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://devtransform.org">
-    <img src="https://img.shields.io/badge/devtransform.org-111827?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="devtransform.org" />
+  <a href="https://devtransform-hub.vercel.app">
+    <img src="https://img.shields.io/badge/DevTransform_Hub-111827?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="DevTransform Hub" />
   </a>
   <a href="mailto:enis-dogan@outlook.com">
     <img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>⚡ <a href="https://github.com/ensibey/devtransform-hub">devtransform-hub</a> · <a href="https://devtransform.org">devtransform.org ↗</a></h3>
+      <h3>⚡ <a href="https://github.com/ensibey/devtransform-hub">devtransform-hub</a> · <a href="https://devtransform-hub.vercel.app">Live Demo ↗</a></h3>
       <p>145+ free, privacy-first developer &amp; PDF utilities running <b>100% client-side in Web Workers</b> with zero server uploads.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
