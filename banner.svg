@@ -1,0 +1,68 @@
+<svg width="900" height="190" viewBox="0 0 900 190" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="60%" stop-color="#111722"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#3fb950"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dotGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#30363d" fill-opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="0.5" y="0.5" width="899" height="189" rx="12" fill="url(#bgGrad)" stroke="#21262d"/>
+  <rect x="1" y="1" width="898" height="188" rx="11.5" fill="url(#dotGrid)"/>
+
+  <!-- Subtle Top Terminal Bar -->
+  <circle cx="28" cy="26" r="4.5" fill="#30363d"/>
+  <circle cx="44" cy="26" r="4.5" fill="#30363d"/>
+  <circle cx="60" cy="26" r="4.5" fill="#30363d"/>
+  <text x="80" y="30" fill="#8b949e" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="0.4">
+    ~/ensibey · software-engineering · ai-systems
+  </text>
+
+  <!-- Main Title -->
+  <text x="42" y="92" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="-0.6">
+    Enis Doğan
+  </text>
+
+  <!-- Accent Underline -->
+  <rect x="42" y="106" width="240" height="2.5" rx="1.25" fill="url(#accentLine)"/>
+
+  <!-- Subtitle -->
+  <text x="42" y="135" fill="#c9d1d9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="500">
+    AI &amp; LLM Systems Engineer · Software Engineering Student
+  </text>
+
+  <!-- Focus Tags -->
+  <text x="42" y="160" fill="#8b949e" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12">
+    Local RAG · Multi-Agent Graphs · Static AST Analysis · Turkish NLP
+  </text>
+
+  <!-- Right Side Minimalist Architecture Motif -->
+  <g transform="translate(615, 34)">
+    <rect x="0" y="0" width="245" height="124" rx="8" fill="#0d1117" fill-opacity="0.88" stroke="#30363d"/>
+    <text x="14" y="24" fill="#8b949e" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">
+      <tspan fill="#79c0ff">class</tspan> <tspan fill="#d2a8ff">Pipeline</tspan><tspan fill="#8b949e">:</tspan>
+    </text>
+    <text x="26" y="44" fill="#c9d1d9" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">
+      retrieval = <tspan fill="#a5d6ff">"BM25 + Qdrant"</tspan>
+    </text>
+    <text x="26" y="62" fill="#c9d1d9" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">
+      agents    = <tspan fill="#a5d6ff">"LangGraph"</tspan>
+    </text>
+    <text x="26" y="80" fill="#c9d1d9" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">
+      analysis  = <tspan fill="#a5d6ff">"Python AST"</tspan>
+    </text>
+    <text x="26" y="98" fill="#c9d1d9" font-family="'SFMono-Regular', Consolas, monospace" font-size="11">
+      nlp       = <tspan fill="#a5d6ff">"Turkish BERT"</tspan>
+    </text>
+    <circle cx="226" cy="18" r="3.5" fill="#3fb950"/>
+  </g>
+</svg>
