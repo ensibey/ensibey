@@ -4,11 +4,11 @@
 
 ## Enis Doğan
 
-Computer Engineering undergraduate at **İzmir Institute of Technology (İYTE, 100% English)** working on local LLM retrieval systems, static/agentic code analysis, and Turkish NLP.
+Software Engineering undergraduate working on local LLM retrieval systems, static/agentic code analysis, and Turkish NLP.
 
 - **TEKNOFEST NLP Hackathon:** Ranked **27th / 255 teams (Top 11%)** on Turkish address standardization and `dbmdz/bert-base-turkish-cased` classification.
 - **Focus Areas:** Hybrid RAG (BM25 + dense vector search), multi-agent workflows (`LangGraph`), Python AST static analysis, and C/C++ (STL).
-- **Links:** [LinkedIn](https://www.linkedin.com/in/enis-do%C4%9Fan/) · [enisdogan3535@gmail.com](mailto:enisdogan3535@gmail.com)
+- **Links:** [LinkedIn](https://www.linkedin.com/in/enis-do%C4%9Fan/) · [Kaggle](https://www.kaggle.com/hakanenisdogan) · [enis-dogan@outlook.com](mailto:enis-dogan@outlook.com)
 
 ---
 
