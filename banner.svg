@@ -112,35 +112,37 @@
   </g>
 
   <!-- Right Glassmorphic Code & System Card -->
-  <g class="float-card" transform="translate(575, 26)">
-    <rect x="0" y="0" width="346" height="178" rx="12" fill="#0b1120" fill-opacity="0.92" stroke="#334155" stroke-width="1.2"/>
-    <!-- Window dots -->
-    <circle cx="18" cy="18" r="4" fill="#ef4444" fill-opacity="0.85"/>
-    <circle cx="32" cy="18" r="4" fill="#f59e0b" fill-opacity="0.85"/>
-    <circle cx="46" cy="18" r="4" fill="#10b981" fill-opacity="0.85"/>
-    <text x="64" y="21.5" fill="#64748b" font-family="'SFMono-Regular', Consolas, monospace" font-size="10.5">
-      architecture.py — ensibey
-    </text>
-    <line x1="0" y1="34" x2="346" y2="34" stroke="#1e293b" stroke-width="1"/>
+  <g transform="translate(575, 26)">
+    <g class="float-card">
+      <rect x="0" y="0" width="346" height="178" rx="12" fill="#0b1120" fill-opacity="0.92" stroke="#334155" stroke-width="1.2"/>
+      <!-- Window dots -->
+      <circle cx="18" cy="18" r="4" fill="#ef4444" fill-opacity="0.85"/>
+      <circle cx="32" cy="18" r="4" fill="#f59e0b" fill-opacity="0.85"/>
+      <circle cx="46" cy="18" r="4" fill="#10b981" fill-opacity="0.85"/>
+      <text x="64" y="21.5" fill="#64748b" font-family="'SFMono-Regular', Consolas, monospace" font-size="10.5">
+        architecture.py — ensibey
+      </text>
+      <line x1="0" y1="34" x2="346" y2="34" stroke="#1e293b" stroke-width="1"/>
 
-    <!-- Code lines -->
-    <text x="16" y="56" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
-      <tspan fill="#c084fc">class</tspan> <tspan fill="#38bdf8" font-weight="700">EnisAIStack</tspan><tspan fill="#94a3b8">:</tspan>
-    </text>
-    <text x="28" y="77" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
-      <tspan fill="#94a3b8">agents</tspan>    <tspan fill="#64748b">=</tspan> <tspan fill="#34d399">["LangGraph", "AST", "Judge"]</tspan>
-    </text>
-    <text x="28" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
-      <tspan fill="#94a3b8">retrieval</tspan> <tspan fill="#64748b">=</tspan> <tspan fill="#38bdf8">["BM25", "Qdrant", "Chroma"]</tspan>
-    </text>
-    <text x="28" y="119" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
-      <tspan fill="#94a3b8">models</tspan>    <tspan fill="#64748b">=</tspan> <tspan fill="#fbbf24">["Ollama", "PyTorch", "Llama 3"]</tspan>
-    </text>
-    <text x="28" y="140" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
-      <tspan fill="#94a3b8">systems</tspan>   <tspan fill="#64748b">=</tspan> <tspan fill="#f472b6">["Python", "C++", "FastAPI"]</tspan>
-    </text>
-    <text x="16" y="162" font-family="'SFMono-Regular', Consolas, monospace" font-size="10.5" fill="#64748b">
-      # status: shipping open-source AI &amp; security tools
-    </text>
+      <!-- Code lines -->
+      <text x="16" y="56" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
+        <tspan fill="#c084fc">class</tspan> <tspan fill="#38bdf8" font-weight="700">EnisAIStack</tspan><tspan fill="#94a3b8">:</tspan>
+      </text>
+      <text x="28" y="77" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
+        <tspan fill="#94a3b8">agents</tspan>    <tspan fill="#64748b">=</tspan> <tspan fill="#34d399">["LangGraph", "AST", "Judge"]</tspan>
+      </text>
+      <text x="28" y="98" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
+        <tspan fill="#94a3b8">retrieval</tspan> <tspan fill="#64748b">=</tspan> <tspan fill="#38bdf8">["BM25", "Qdrant", "Chroma"]</tspan>
+      </text>
+      <text x="28" y="119" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
+        <tspan fill="#94a3b8">models</tspan>    <tspan fill="#64748b">=</tspan> <tspan fill="#fbbf24">["Ollama", "PyTorch", "Llama 3"]</tspan>
+      </text>
+      <text x="28" y="140" font-family="'SFMono-Regular', Consolas, monospace" font-size="11.5">
+        <tspan fill="#94a3b8">systems</tspan>   <tspan fill="#64748b">=</tspan> <tspan fill="#f472b6">["Python", "C++", "FastAPI"]</tspan>
+      </text>
+      <text x="16" y="162" font-family="'SFMono-Regular', Consolas, monospace" font-size="10.5" fill="#64748b">
+        # status: shipping open-source AI &amp; security tools
+      </text>
+    </g>
   </g>
 </svg>
