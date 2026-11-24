@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ensibey">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+Air-Gapped+RAG+%26+Vector+Retrieval+Engines;Architecting+Multi-Agent+LangGraph+%26+AST+Security+Scanners;Open-Source+Turkish+NLP+%26+BERT+Fine-Tuning+(TEKNOFEST+Top+11%25);Python+%C2%B7+C%2B%2B+%C2%B7+PyTorch+%C2%B7+TypeScript+%C2%B7+FastAPI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+Air-Gapped+RAG+%26+Vector+Retrieval+Engines;Architecting+Multi-Agent+LangGraph+%26+AST+Security+Scanners;Local+Knowledge+Graphs+%26+Privacy-First+Developer+Tools;Python+%C2%B7+C%2B%2B+%C2%B7+PyTorch+%C2%B7+TypeScript+%C2%B7+FastAPI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -52,15 +52,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗣️ <a href="https://github.com/ensibey/turkish-nlp-toolkit">turkish-nlp-toolkit</a></h3>
-      <p>Zero-dependency Turkish NLP library (<b>9,776 docs/sec</b> pipeline, <b>15,611 addrs/sec</b>) with <code>İ/I</code> normalization, agglutinative stemming, sentence splitting, deasciifier, entity extraction, postal address parser (<b>TEKNOFEST Top 11%</b>), and BERT wrapper (27 tests).</p>
-      <p>
-        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-        <img src="https://img.shields.io/badge/Zero_Deps-10B981?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/ensibey/personal-omniscience-engine">personal-omniscience-engine</a></h3>
       <p>Local Markdown/Obsidian knowledge engine with SHA-256 incremental sync, bidirectional <code>[[wikilink]]</code> graph retrieval (<b>33.3% → 100% R@3</b> ablation), bilingual style conditioning, and style drift evaluator (13 tests).</p>
       <p>
@@ -69,9 +60,7 @@
         <img src="https://img.shields.io/badge/Knowledge_Graph-06B6D4?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/ensibey/devtransform-hub">devtransform-hub</a> · <a href="https://devtransform-hub.vercel.app">Live Demo ↗</a></h3>
       <p>145+ free, privacy-first developer &amp; PDF utilities running <b>100% client-side in Web Workers</b> with zero server uploads.</p>
       <p>
